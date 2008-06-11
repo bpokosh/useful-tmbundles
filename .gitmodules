@@ -1,0 +1,30 @@
+[submodule "git.tmbundle"]
+	path = git.tmbundle
+	url = git://gitorious.org/git-tmbundle/mainline.git
+[submodule "rspec.tmbundle"]
+	path = rspec.tmbundle
+	url = git://github.com/dchelimsky/rspec-tmbundle.git
+[submodule "ruby-on-rails.tmbundle"]
+	path = ruby-on-rails.tmbundle
+	url = git://github.com/drnic/ruby-on-rails-tmbundle.git
+[submodule "ruby.tmbundle"]
+	path = ruby.tmbundle
+	url = git://github.com/drnic/ruby-tmbundle.git
+[submodule "javascript-jquery.tmbundle"]
+	path = javascript-jquery.tmbundle
+	url = git://github.com/drnic/javascript-jquery-tmbundle.git
+[submodule "ruby-haml.tmbundle"]
+	path = ruby-haml.tmbundle
+	url = git://github.com/douglasjarquin/ruby-haml-tmbundle.git
+[submodule "ruby-sass.tmbundle"]
+	path = ruby-sass.tmbundle
+	url = git://github.com/aussiegeek/ruby-sass-tmbundle.git
+[submodule "html.tmbundle"]
+	path = html.tmbundle
+	url = git://github.com/drnic/html-tmbundle.git
+[submodule "github.tmbundle"]
+	path = github.tmbundle
+	url = git://github.com/drnic/github-tmbundle.git
+[submodule "rspec-story.tmbundle"]
+	path = rspec-story.tmbundle
+	url = git://github.com/bmabey/rspec-story-tmbundle.git
