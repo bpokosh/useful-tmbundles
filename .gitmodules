@@ -28,3 +28,6 @@
 [submodule "rspec-story.tmbundle"]
 	path = rspec-story.tmbundle
 	url = git://github.com/bmabey/rspec-story-tmbundle.git
+[submodule "rubycocoa.tmbundle"]
+	path = rubycocoa.tmbundle
+	url = git://github.com/drnic/rubycocoa-tmbundle.git
