@@ -31,3 +31,6 @@
 [submodule "rubycocoa.tmbundle"]
 	path = rubycocoa.tmbundle
 	url = git://github.com/drnic/rubycocoa-tmbundle.git
+[submodule "Cucumber.tmbundle"]
+	path = Cucumber.tmbundle
+	url = git://github.com/bmabey/cucumber-tmbundle.git
