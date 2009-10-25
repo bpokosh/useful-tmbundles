@@ -34,3 +34,6 @@
 [submodule "webrat.tmbundle"]
 	path = webrat.tmbundle
 	url = git://github.com/bmabey/webrat-tmbundle.git
+[submodule "formtastic.tmbundle"]
+	path = formtastic.tmbundle
+	url = git://github.com/grimen/formtastic_tmbundle.git
