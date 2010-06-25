@@ -37,3 +37,6 @@
 [submodule "formtastic.tmbundle"]
 	path = formtastic.tmbundle
 	url = git://github.com/grimen/formtastic_tmbundle.git
+[submodule "mercurial.tmbundle"]
+	path = mercurial.tmbundle
+	url = http://github.com/textmate/mercurial.tmbundle.git
